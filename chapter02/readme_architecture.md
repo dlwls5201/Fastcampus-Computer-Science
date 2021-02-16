@@ -40,8 +40,8 @@
 
 ## CPU Protection Rings
 - CPU 권한 모드
-- 사용자 모드 (user mode): 응용 프로그램이 사용
-- 커널 모드 (kernel mode): OS가 사용
+  - 사용자 모드 (user mode): 응용 프로그램이 사용
+  - 커널 모드 (kernel mode): OS가 사용
 
 ## 시스템 콜은 커널 모드로 실행
 - 커널 모드에서만 실행 가능한 기능들이 있음

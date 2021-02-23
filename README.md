@@ -6,3 +6,7 @@
 - [Chapter02 운영체제 핵심 개념 잡기 - 스케쥴링](/chapter02/readme_scheduling.md)
 - [Chapter03 프로세스와 스케쥴러의 이해 - 스케쥴링 알고리즘 기본](/chapter03/readme-scheduling.md)
 - [Chapter03 프로세스와 스케쥴러의 이해 - 선점형과 비선점형](/chapter03/readme-preemptive.md)
+- [Chapter03 프로세스와 스케쥴러의 이해 - 인터럽트](/chapter03/readme-interrupt.md)
+- [Chapter03 프로세스와 스케쥴러의 이해 - 프로세스 구조](/chapter03/readme-process-construct.md)
+- [Chapter03 프로세스와 스케쥴러의 이해 - 컨텍스트 스위칭](/chapter03/readme-context-switching.md)
+- [Chapter03 프로세스와 스케쥴러의 이해 - 프로세스간 커뮤니케이션](/chapter03/readme-process-communication.md)

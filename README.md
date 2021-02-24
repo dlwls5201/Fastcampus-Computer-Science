@@ -10,3 +10,4 @@
 - [Chapter03 프로세스와 스케쥴러의 이해 - 프로세스 구조](/chapter03/readme-process-construct.md)
 - [Chapter03 프로세스와 스케쥴러의 이해 - 컨텍스트 스위칭](/chapter03/readme-context-switching.md)
 - [Chapter03 프로세스와 스케쥴러의 이해 - 프로세스간 커뮤니케이션](/chapter03/readme-process-communication.md)
+   [Chapter04 쓰레드의 이해](/chapter04/readme-thread.md)

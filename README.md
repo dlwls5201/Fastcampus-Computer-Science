@@ -15,4 +15,6 @@
 -  [Chapter04 쓰레드의 이해](/01operatingsystem/chapter04/readme-thread.md)
 
    ## 시스템 프로그래밍
-   - [Chapter01 리눅스 배경 ](/02systemprograming/chapter01/readme_linux_basic.md)
+   
+- [Chapter01 리눅스 배경](/02systemprograming/chapter01/readme_linux_basic.md)
+- [Chapter02 리눅스 파일](/02systemprograming/chapter02/readme_file.md)

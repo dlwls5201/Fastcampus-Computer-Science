@@ -26,3 +26,10 @@
 ## GNU 프로젝트와 GNU Hurd
 - 운영체제 커널 개발 시도 : GNU Hurd
 - 운영체제에 필요한 라이브러리, 컴파일러, 에디터, 쉘 개발
+
+## 정리
+- 오픈 소스 운동
+- 운영체제 개발
+  + OS Kernel, System call, Compiler, API(Library), Shell, Editor
+- 소스 라이선스 (GPL)
+- GNU/Linux

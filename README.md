@@ -12,6 +12,7 @@
 - [Chapter03 프로세스와 스케쥴러의 이해 - 프로세스 구조](/01operatingsystem/chapter03/readme-process-construct.md)
 - [Chapter03 프로세스와 스케쥴러의 이해 - 컨텍스트 스위칭](/01operatingsystem/chapter03/readme-context-switching.md)
 - [Chapter03 프로세스와 스케쥴러의 이해 - 프로세스간 커뮤니케이션](/01operatingsystem/chapter03/readme-process-communication.md)
-   [Chapter04 쓰레드의 이해](/01operatingsystem/chapter04/readme-thread.md)
+-  [Chapter04 쓰레드의 이해](/01operatingsystem/chapter04/readme-thread.md)
 
    ## 시스템 프로그래밍
+   - [Chapter01 리눅스 배경 ](/02systemprograming/chapter01/readme_linux_basic.md)

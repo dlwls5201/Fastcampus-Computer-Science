@@ -16,8 +16,9 @@
 -  [Chapter05 가상 메모리](/01operatingsystem/chapter05/readme-virtural-memory.md)
 -  [Chapter06 파일 시스템의 이해](/01operatingsystem/chapter06/readme-inode.md)
 
-   ## 시스템 프로그래밍
+ ## 시스템 프로그래밍
    
 - [Chapter01 리눅스 배경](/02systemprograming/chapter01/readme_linux_basic.md)
 - [Chapter02 리눅스 파일](/02systemprograming/chapter02/readme_file.md)
-- [Chapter03 쉴로 시작하는 시스템](/02systemprograming/chapter03/readme_linux_language.md)
+- [Chapter03 쉘로 시작하는 시스템](/02systemprograming/chapter03/readme_linux_language.md)
+- [Chapter04 시스템 프로그래밍 핵심기술](/02systemprograming/chapter04/readme_system_programming.md)

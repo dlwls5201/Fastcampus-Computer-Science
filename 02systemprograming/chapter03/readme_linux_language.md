@@ -1,8 +1,8 @@
 ## 정리
 
 - 쉘
-+ 리눅스 에서는 Bourne-Again Shell (bash)를 많이 사용함
-+ GNU 프로젝트의 일환으로 개발됨, 리눅스 거의 디폴트 쉘임
+- 리눅스 에서는 Bourne-Again Shell (bash)를 많이 사용함
+- GNU 프로젝트의 일환으로 개발됨, 리눅스 거의 디폴트 쉘임
 - user 관련 명령: whoami, useradd, adduser, passwd, su - {username}
 - Directory/file 관련 명령 : 
     + pwd 경로 확인

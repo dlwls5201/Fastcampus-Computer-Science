@@ -33,13 +33,13 @@
 1. ls > files.txt
       - ls로 출력되는 표준 출력 스트림의 방향을 files.txt로 바꿔줌
 2. head < files.txt
-- files.txt의 파일 내용이 head라는 파일의 처음부터 10라인까지 출력해주는 명령으로 넣어짐
+    - files.txt의 파일 내용이 head라는 파일의 처음부터 10라인까지 출력해주는 명령으로 넣어짐
 3. head < files.txt > files2.txt
    - files.txt의 파일 내용이 head로 들어가서 files.txt의 앞 10라인을 출력
      - head의 출력 스트림은 다시 files2.txt로 들어감
 4. 기존 파일에 추가는 >> 또는 << 사용
-- ls >> files.txt
-  - 기존에 있는 files.txt 파일 끝에 결과를 출력
+    - ls >> files.txt
+        - 기존에 있는 files.txt 파일 끝에 결과를 출력
 
 ## 파이프 (pipe)
 - 두 프로세스 사이에서 한 프로세스의 출력 스트림을 또 다른 프로세스의 입력 스트림으로 사용할 때 사용됨
